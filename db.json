@@ -13,16 +13,16 @@
   },
   "data" : [
     {
-      label : 'Print',
-      value : 40,
+      "label" : "Print",
+      "value" : 40,
     },
     {
-      label : 'Mobile',
-      value : 64,
+      "label" : "Mobile",
+      "value" : 64,
     },
     {
-      label : 'Ecommerce',
-      value : 24,
+      "label" : "Ecommerce",
+      "value" : 24,
     },
   ],
 }
